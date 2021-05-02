@@ -14,5 +14,4 @@ This is Sadia currently pursuing B.E in Computer Science 👩‍💻 in Vasavi C
   [LinkedIn ](https://www.linkedin.com/in/sadia-firdous-b33209209) 
 *  ⚡ Fun fact: The QWERTY keyboard was designed to slow you down ⌨️⌨️ 
 
-## Skill Section :
 
