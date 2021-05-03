@@ -1,3 +1,4 @@
+🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
 # Hi there 👋
 
 ## An Intro :
@@ -14,4 +15,9 @@ This is Sadia currently pursuing B.E in Computer Science 👩‍💻 in Vasavi C
   [LinkedIn ](https://www.linkedin.com/in/sadia-firdous-b33209209) 
 *  ⚡ Fun fact: The QWERTY keyboard was designed to slow you down ⌨️⌨️ 
 
+ ![C++ ](pic/c++.png)  ![C ](pic/c.png)   ![python ](pic/python.png)   ![opencv ](pic/opencv.png)
+ 
+ ## Finally more left to explore🥰 
+
+🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
 
