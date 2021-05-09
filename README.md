@@ -1,11 +1,11 @@
 🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
-# Hi there 👋
+## Hi there 👋
 
-## An Intro :
+### An Intro :
 
 This is Sadia currently pursuing B.E in Computer Science 👩‍💻 in Vasavi College Of Engineering .I am an enthusiastic person who is passionate about technology and love exploring new things 💡.
 
-## More About Me 
+### More About Me 
 
 *  🔭 I’m currently working on Web Development ⏩ .
 *  🌱 I’m currently learning Data Structures and Algorithms
@@ -15,7 +15,7 @@ This is Sadia currently pursuing B.E in Computer Science 👩‍💻 in Vasavi C
   [LinkedIn ](https://www.linkedin.com/in/sadia-firdous-b33209209) 
 *  ⚡ Fun fact: The QWERTY keyboard was designed to slow you down ⌨️⌨️ 
 
- ![C++ ](pic/c++.png)  ![C ](pic/c.png)   ![python ](pic/python.png)   ![opencv ](pic/opencv.png)
+ ![C++ ](pic/c++.png)  ![C ](pic/c.png)   ![python ](pic/python.png)   ![java ](pic/Java.png)  ![opencv ](pic/opencv.png) 
  
  ## Finally more left to explore🥰 
 
